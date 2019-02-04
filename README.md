@@ -20,3 +20,17 @@ Create a program which offers the user the following menu of operations :
 7) Add record  
 8) Delete record  
 9) Quit  
+
+## Compiling and running
+
+### Compile:
+`
+g++ SimpleDatabase.cpp -o SimpleDatabase
+`
+
+### Run:
+Type the following in the windows command prompt:
+
+`
+SimpleDatabase.exe
+`
